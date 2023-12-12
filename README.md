@@ -1,5 +1,7 @@
 # Conway-s-_Game_of_Life
-This project allows you to play with 2D cellular automata on a interactive board
+This project allows you to play with 2D cellular automata on a interactive board  
+Demo is available on YouTube: https://youtu.be/w2nm6o_xk9A
+
 ## Project description
 I implemented an algorithm and a program simulating the operation of the 2D cellular automata. The operation was exactly the same as in the game of life - the cell had two
 states: <b>alive or dead</b>.  
